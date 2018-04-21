@@ -1,0 +1,91 @@
+body {
+    background-image: url("assets/images/Wallpapers.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.wrapper {
+    box-sizing: border-box;
+    height: 650px;
+    width: 800px;
+    background: khaki;
+    border: 6px solid;
+    margin: 0 auto;
+    margin-top: 50px;
+    opacity: 0.8;
+  }
+ 
+h1 {
+    font-family: 'Berkshire Swash', cursive;
+    color: gold;
+    font-size: 4rem;
+}
+
+p {
+      font-family: 'East Sea Dokdo', cursive;
+      font-size: 30px;
+      text-align: center;
+      padding: 10px;
+}
+
+.start-button {
+    position: relative;
+    font: 4em 'Dokdo', cursive;
+    height: 100px;
+    width: 610px;
+    margin: 0 auto;
+    left: 100px;
+    top: 200px;
+}
+
+.text-center {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.first-answer {
+     margin-top: 40px;
+}
+
+.image {
+    height: 140px;
+    width: 245px;
+}
+
+.center-block {
+    margin: 0 auto;
+    position: relative;
+    left: 250px;
+}
+  
+.img-wrong {
+    height: 300px;
+    width: 300px;
+}
+
+ .answer:hover {
+    background: lightgoldenrodyellow;
+}
+  
+ .answer {
+    height: 45px;
+    width: 300px;
+    color: black;
+    background-color: white;
+    border-radius: 8px;
+    margin-bottom: 5px;
+}
+
+.reset-button {
+    font-size: 45px;
+    font-family: 'Dokdo', cursive;
+    position: relative;
+    left: 250px;
+}
+
+.timer-p {
+    font-size: 40px;
+    font-family: 'Dokdo', cursive;
+    color: tomato;
+}   
+
+  
